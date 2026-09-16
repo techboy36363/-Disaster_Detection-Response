@@ -1,0 +1,6 @@
+{
+  "name": "India National AI Disaster Management System",
+  "description": "India National AI-powered disaster detection, risk prediction, automated SMS dispatch to medical & emergency teams, urban & rural bilingual alerts, and AI voice assistant across all Indian States & Union Territories.",
+  "requestFramePermissions": ["geolocation", "notifications", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
